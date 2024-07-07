@@ -1,4 +1,4 @@
-# Project 1: Credit Card Fraud Detector
+# Credit Card Fraud Detector 💳
 
 Welcome to the Credit Card Fraud Detector project! This project aims to build a machine learning model to detect fraudulent credit card transactions.
 
